@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy Policy for KD Hand Cricket">
+  <title>Privacy Policy | KD Hand Cricket</title>
+  <style>
+    :root { color-scheme: light; --ink: #10234a; --blue: #1769e0; --line: #dce7f8; --soft: #f4f8ff; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--soft); color: #26354d; font: 16px/1.7 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    main { width: min(860px, calc(100% - 32px)); margin: 40px auto; padding: clamp(24px, 5vw, 56px); background: #fff; border: 1px solid var(--line); border-radius: 20px; box-shadow: 0 16px 44px rgba(26, 72, 140, .10); }
+    h1, h2 { color: var(--ink); line-height: 1.25; }
+    h1 { margin: 0 0 8px; font-size: clamp(2rem, 5vw, 3rem); }
+    h2 { margin-top: 2rem; font-size: 1.35rem; }
+    .updated { margin: 0 0 2rem; color: #61708a; }
+    a { color: var(--blue); }
+    li + li { margin-top: .5rem; }
+    footer { margin-top: 2.5rem; padding-top: 1.25rem; border-top: 1px solid var(--line); color: #61708a; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Privacy Policy</h1>
+    <p class="updated"><strong>KD Hand Cricket</strong> &middot; Effective July 17, 2026</p>
+
+    <p>This Privacy Policy explains how KD Hand Cricket ("we", "our", or "the app") collects, uses, stores, and shares information when you use the app.</p>
+
+    <h2>Information we collect</h2>
+    <ul>
+      <li><strong>Account information:</strong> If you sign in with Google, we receive your Google account identifier, name, email address, and profile picture. If phone sign-in is offered and you use it, we receive an authentication token and account information associated with that sign-in.</li>
+      <li><strong>Guest account information:</strong> If you continue as a guest, the app uses an operating-system device identifier (or a randomly generated identifier if unavailable) to recognize the same guest account.</li>
+      <li><strong>Game and profile data:</strong> We process your username, gameplay, matches, scores, statistics, leaderboard position, coin balance, rewards, and related account activity.</li>
+      <li><strong>Device, network, and advertising data:</strong> Google Mobile Ads may collect device identifiers, IP address, app interactions, diagnostic information, and advertising data when rewarded ads are requested or viewed.</li>
+      <li><strong>Local app data:</strong> The app stores your authentication token, profile data, guest identifier, theme preference, and daily-reward status securely on your device.</li>
+    </ul>
+
+    <h2>How we use information</h2>
+    <p>We use information to authenticate users, maintain accounts and guest sessions, operate multiplayer matches, display profiles and leaderboards, manage coins and rewards, prevent abuse, secure and troubleshoot the service, and improve the app. Advertising data is used to provide and measure rewarded ads.</p>
+
+    <h2>How information is shared</h2>
+    <p>We do not sell your personal information. Information may be processed by service providers that help operate the app, including:</p>
+    <ul>
+      <li><a href="https://policies.google.com/privacy">Google</a>, for Google Sign-In and Google Mobile Ads;</li>
+      <li><a href="https://railway.com/legal/privacy">Railway</a>, which hosts the app's backend service.</li>
+    </ul>
+    <p>We may also disclose information when required by law, to protect users or the service, or as part of a business transfer. Public profile details, scores, and rankings may be visible to other players through matches and leaderboards.</p>
+
+    <h2>Data retention and security</h2>
+    <p>We retain account and gameplay information for as long as needed to provide the service, meet legal obligations, resolve disputes, and prevent abuse. On-device credentials are stored using platform-protected secure storage, and network requests use encrypted HTTPS or secure WebSocket connections. No method of storage or transmission is completely secure.</p>
+
+    <h2>Your choices and rights</h2>
+    <p>You may sign out at any time. You may request access to, correction of, or deletion of your personal information by contacting us below. Deleting the app removes local app data but may not delete information stored on our servers. Advertising choices may also be managed through your device's privacy settings and Google's ad settings.</p>
+
+    <h2>Children's privacy</h2>
+    <p>KD Hand Cricket is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information, contact us so we can investigate and delete it where required. Local age thresholds may be higher.</p>
+
+    <h2>International processing</h2>
+    <p>Your information may be processed in countries other than where you live. Where required, we use appropriate safeguards for such processing.</p>
+
+    <h2>Changes to this policy</h2>
+    <p>We may update this policy as the app or legal requirements change. We will post the revised policy here and update the effective date.</p>
+
+    <h2>Contact us</h2>
+    <p>For privacy questions or data requests, open a request on the <a href="https://github.com/karthi55/Hand-app-flutter/issues">KD Hand Cricket support page</a>. Please do not include passwords, authentication tokens, or other sensitive information in a public issue.</p>
+
+    <footer>&copy; 2026 KD Hand Cricket</footer>
+  </main>
+</body>
+</html>
